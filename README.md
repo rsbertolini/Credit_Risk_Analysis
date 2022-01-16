@@ -62,6 +62,6 @@ The purpose of this project was to compare several machine learning algorithms t
 
 ## Summary:
 I would not recommend the lender to use these prediction algorithms.  All of the algorithms for high risk predictions had very low precision.  There was a lot of inaccuracy
-around a large subset of applicants getting classified as high risk that were actually low risk so this presents a large missed opportunity for revenue.
+around a large subset of applicants getting classified as high risk that were actually low risk so this presents a missed revenue opportunity.
 
 
