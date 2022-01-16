@@ -8,21 +8,32 @@ The purpose of this project was to compare several machine learning algorithms t
 
 ## Results
 * RandomOverSampler
+
 ![RandomOverSampler](/Images/RandomOverSampler.PNG)
 
 * SMOTE
+
+
 ![SMOTE](/Images/SMOTE.PNG)
 
 * Cluster Centroids
+
+
 ![ClusterCentroids](/Images/ClusterCentroids.PNG)
 
 * SMOTEEN
+
+
 ![SMOTEEN](/Images/SMOTEEN.PNG)
 
 * BalancedRandomForestClassifier
+
+
 ![BalancedRandomForestClassifier](/Images/BalancedRandomForestClassifier.PNG)
 
 * EasyEnsembleClassifier
+
+
 ![EasyEnsembleClassifier](/Images/EasyEnsembleClassifier.PNG)
 
 ## Summary:
