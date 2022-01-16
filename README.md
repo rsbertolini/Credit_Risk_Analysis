@@ -7,15 +7,15 @@ The purpose of this project was to compare several machine learning algorithms t
 * Deliverable 3 - We explored 2 new machine learning models, BalancedRandomForestClassifier and EasyEnsembleClassifier, that reduce bias.
 
 ## Results
-* RandomOverSampler
+**RandomOverSampler**
 
 ![RandomOverSampler](/Images/RandomOverSampler.PNG)
 
-The credit risk accuracy score is 64%.
-The high risk precision score is only 1% and the low risk precision score is 100%.
-The high risk sensitivity score is 62% and the low risk sensitivity score is 65%.
+* The credit risk accuracy score is 64%.
+* The high risk precision score is only 1% and the low risk precision score is 100%.
+* The high risk sensitivity score is 62% and the low risk sensitivity score is 65%.
 
-* SMOTE
+**SMOTE**
 
 
 ![SMOTE](/Images/SMOTE.PNG)
